@@ -1,5 +1,4 @@
 # J𝖀𝗦𝐓Λ𝗧𝙕-𝗠D 
-𝐖𝚵𝐋𝐂𝚯𝚳𝚵 𝚻𝚯 J𝖀𝗦𝐓Λ-𝗧𝙕 🚀 𝐃𝚰𝛁𝚵 𝚰𝚴𝚻𝚯 𝚻𝚮𝚵 𝐖𝚯𝚪𝐋𝐃 𝚯𝐅 𝐖𝚮𝚫𝚻𝐒𝚫𝚸𝚸 𝚩𝚯𝚻𝐒 𝚫𝚴𝐃 𝛁𝚸𝚴.
 🌟 𝗡EW 𝗪HAT'S APP 𝗕𝗢𝗧 𝗖REATE𝗗 𝗕𝗬 J𝖀𝗦𝐓Λ-𝗧𝙕 💫
 
 [![J𝖀𝗦𝐓Λ𝗧𝙕-𝗠D Logo](https://files.catbox.moe/ewn1gt.jpg)](https://whatsapp.com/channel/0029Vap2lUBJuyA8HLdfho47)
