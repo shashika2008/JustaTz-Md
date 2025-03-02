@@ -1,6 +1,5 @@
-        J𝖀𝗦𝐓Λ𝗧𝙕 𝗠D 𝗖𝚁𝙴Λ𝚃𝙴𝙳 𝗕𝚢 J𝖀𝗦𝐓Λ-𝗧𝙕
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝗧𝗛ΛNKS 𝗙OR 𝗬OUR  +𝗦𝗨𝗣𝗣𝗢R𝗧-𝗗ON'𝗧; 𝗙𝗢R𝗚𝗘𝗧+𝗧O+𝗙𝗢R𝗞+𝗠Y-R𝗘𝗣𝗢;;RELEASED+25.9.2024" alt="Typing SVG" /></a>
+1BAFBAFF&center=true&width=910&height=100&lines=J𝖀𝗦𝐓Λ𝗧𝙕 𝗠D+𝗖𝚁𝙴Λ𝚃𝙴𝙳+𝗕𝚢+J𝖀𝗦𝐓Λ-𝗧𝙕
+" alt="Typing SVG" /></a>
 
 
 
@@ -11,7 +10,7 @@
 
 </h1> 
 <p align="center">⚠️<b>𝕃
-J𝖀𝗦𝐓Λ𝗧𝙕 MD</b>, ⚠️ </p>
+J𝖀𝗦𝐓Λ-𝗧𝙕 MD</b>, ⚠️ </p>
 
 </p>
   <p align="center">
@@ -32,7 +31,7 @@ J𝖀𝗦𝐓Λ𝗧𝙕 MD</b>, ⚠️ </p>
 <br>
 
 2. (A)👇 Get Session ID Here for normal bot
-[![Get Session ID Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://justatz.onrender.com) 
+[![Get Session ID Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://yesser.onrender.com) 
 
  
  2. (B) 👁️ get session id here for bottom bot
@@ -78,4 +77,4 @@ For any issues or to stay updated, use the options below:
 [![Follow My GitHub](https://img.shields.io/static/v1?label=Follow%20My%20GitHub&message=GitHub&color=181717&style=for-the-badge&logo=github&logoColor=white)](https://github.com/JustaTz0)  
 
 
-𝐃𝚰𝛁𝚵 𝚰𝚴𝚻𝚯 𝚻𝚮𝚵 𝐖𝚯𝚪𝐋𝐃 𝚯𝐅 𝐖𝚮𝚫𝚻𝐒𝚫𝚸𝚸 𝚩𝚯𝚻𝐒 𝚫𝚴𝐃 𝛁𝚸𝚴 𝐔𝚸𝐃𝚫𝚻𝚵𝐒.
+## 𝐃𝚰𝛁𝚵 𝚰𝚴𝚻𝚯 𝚻𝚮𝚵 𝐖𝚯𝚪𝐋𝐃 𝚯𝐅 𝐖𝚮𝚫𝚻𝐒𝚫𝚸𝚸 𝚩𝚯𝚻𝐒 𝚫𝚴𝐃 𝛁𝚸𝚴 𝐔𝚸𝐃𝚫𝚻𝚵𝐒
