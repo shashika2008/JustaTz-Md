@@ -55,13 +55,13 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "🎣" }, async (dest, zk
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "J𝖀𝗦𝐓Λ𝗧𝙕-MD", numero: "255760774888" },
-      { nom: "᚛J𝖀𝗦𝐓Λ𝗧𝙕-MD᚜", numero: "255760774888" },
+      { nom: "J𝖀𝗦𝐓Λ𝗧𝙕-MD", numero: "255719442240" },
+      { nom: "᚛J𝖀𝗦𝐓Λ𝗧𝙕-MD᚜", numero: "255740792240" },
       { nom: "HansTz", numero: "255756530143" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "WELCOME TO 𝚫𝚴𝐃𝚩𝚫𝐃 MEDIA HELP CENTER! ASK FOR HELP FROM ANY OF THE DEVELOPERS BELOW:\n\n";
+    let message = "WELCOME TO J𝖀𝗦𝐓Λ-𝗧𝙕 MEDIA HELP CENTER! ASK FOR HELP FROM ANY OF THE DEVELOPERS BELOW:\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
