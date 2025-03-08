@@ -42,7 +42,7 @@ const date = moment().format('DD/MM/YYYY');
 │❒⁠⁠⁠⁠│▸ *REPO*
 │❒⁠⁠⁠⁠╰──────────────
 │❒⁠⁠⁠⁠│▸ *CHANNEL* :  https://whatsapp.com/channel/0029Vap2lUBJuyA8HLdfho47
-│❒⁠⁠⁠⁠│▸ *VPN GROUP* : https://chat.whatsapp.com/EaYw8kMWNvtKojGSt4bfH2
+│❒⁠⁠⁠⁠│▸ *GROUP* : https://chat.whatsapp.com/EaYw8kMWNvtKojGSt4bfH2
 │❒⁠⁠⁠⁠│▸ *REPO* : https://github.com/JustaTz03/JustaTz-Md
 │❒⁠⁠⁠⁠│▸ *YTUBE* : https://www.youtube.com/@JustaTz
 │❒⁠⁠⁠⁠╰──────────────
