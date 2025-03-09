@@ -43,7 +43,7 @@
 
  📞 call the owner 
  
-For any issues or to stay updated, use the options below:  
+𝐖𝚵𝐋𝐂𝚯𝚳𝚵 𝚻𝚯 J𝖀𝗦𝐓Λ-𝗧𝙕 🚀 𝐃𝚰𝛁𝚵 𝚰𝚴𝚻𝚯 𝚻𝚮𝚵 𝐖𝚯𝚪𝐋𝐃 𝚯𝐅 𝐖𝚮𝚫𝚻𝐒𝚫𝚸𝚸 𝚩𝚯𝚻𝐒 𝚫𝚴𝐃 𝛁𝚸𝚴 𝐔𝚸𝐃𝚫𝚻𝚵𝐒:  
 
 👇 Follow My WhatsApp Channel 🤝 
 [![Follow My WhatsApp Channel](https://img.shields.io/static/v1?label=Follow%20My%20WhatsApp%20Channel&message=follow&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vap2lUBJuyA8HLdfho47)  
