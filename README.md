@@ -17,12 +17,8 @@
 
 <br>
 
-2 .(A)👇 Paring core here!.
-[![Get Session ID Here](https://session-id-pff9.onrender.com/pair) 
-
-  (B)👇 Qr code here
-  [![Get Session ID Here]
-  (https://session-id-pff9.onrender.com/wasiqr)
+2 .👇 Get Session Id here!.
+[![Get Session ID Here]()
 
 
   
