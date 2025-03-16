@@ -88,7 +88,7 @@ else {
     
 await addOrUpdateDataInAlive(texte , tlien)
 
-repondre('DONT FORGOT TO FORK AND STAR OUR REPO')
+repondre('𝐖𝚵𝐋𝐂𝚯𝚳𝚵 𝚻𝚯 J𝖀𝗦𝐓Λ-𝗧𝙕 🚀 𝐃𝚰𝛁𝚵 𝚰𝚴𝚻𝚯 𝚻𝚮𝚵 𝐖𝚯𝚪𝐋𝐃 𝚯𝐅 𝐖𝚮𝚫𝚻𝐒𝚫𝚸𝚸 𝚩𝚯𝚻𝐒 𝚫𝚴𝐃 𝛁𝚸𝚴 𝐔𝚸𝐃𝚫𝚻𝚵𝐒.')
 
 }
     });
