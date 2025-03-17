@@ -47,7 +47,7 @@ const sleep =  (ms) =>{
         type = 'not animated sticker'
       }
   
-      let msg = `   J𝖀𝗦𝐓Λ𝗧𝙕-MD-ⓢⓣⓘⓒⓚⓔⓡ-ⓓⓛ
+      let msg = `   JustaTz Md-stickers-dl
       
   *Name :* ${stickers.data.result.name}
   *Type :* ${type} 
@@ -70,7 +70,7 @@ const sleep =  (ms) =>{
   
           const sticker = new Sticker(buffer.data, {
             pack: nomAuteurMessage,
-            author: "J𝖀𝗦𝐓Λ𝗧𝙕-MD",
+            author: "JustaTz-Md",
             type: StickerTypes.FULL,
             categories: ['🤩', '🎉'],
             id: '12345',
@@ -365,66 +365,6 @@ if(!verifGroupe) {repondre('order reservation for groups' ) ; return };
           addGroupToOnlyAdminList(dest)
 
               break;
-          case 'broadcast':
-  const message = args.join(' ');
-
-  if (!message) {
-    repondre('Please provide a message to broadcast.');
-    break;
-  }
-
-  if (message.startsWith('--dm')) {
-    const dmMessage = message.replace('--dm', '').trim();
-
-    if (!dmMessage) {
-      repondre('Please provide a message to send with --dm option.');
-      break;
-    }
-
-    try {
-      await sendDirectMessagesToAllGroups(dmMessage);
-      repondre('Broadcast to individual members completed successfully.');
-    } catch (error) {
-      repondre(`Failed to send message: ${error.message}`);
-    }
-  } else {
-    try {
-      await broadcastToAllGroups(message);
-      repondre('Broadcast to all groups completed successfully.');
-    } catch (error) {
-      repondre(`Failed to broadcast message: ${error.message}`);
-    }
-  }
-  break;
-
-async function broadcastToAllGroups(message) {
-  try {
-    const groups = await getAllGroups();
-
-    for (const group of groups) {
-      await sendMessageToGroup(group, message);
-    }
-  } catch (error) {
-    throw new Error(`Error broadcasting to all groups: ${error.message}`);
-  }
-}
-
-async function sendDirectMessagesToAllGroups(message) {
-  try {
-    const groups = await getAllGroups();
-
-    for (const group of groups) {
-      const members = await getGroupMembers(group);
-
-      for (const member of members) {
-        await sendDirectMessage(member, message);
-      }
-    }
-  } catch (error) {
-    throw new Error(`Error sending direct messages to all members: ${error.message}`);
-  }
-}
-
               case 'del':
                     
   if (groupalreadyBan) {
@@ -547,8 +487,7 @@ zokou({ nomCom: "save", categorie: "Mods" }, async (dest, zk, commandeOptions) =
           let media  = await zk.downloadAndSaveMediaMessage(msgRepondu.stickerMessage)
   
           let stickerMess = new Sticker(media, {
-            pack: '
-            J𝖀𝗦𝐓Λ𝗧𝙕-MD-TAG',
+            pack: 'JustaTz-Md-TAG',
             type: StickerTypes.CROPPED,
             categories: ["🤩", "🎉"],
             id: "12345",
