@@ -33,7 +33,7 @@ const fetchGitHubRepoDetails = async () => {
   }
 };
 
-const commands = ["git", "repo2", "script", 'hansc'];
+const commands = ["git", "repo2", "script", 'justasc'];
 
 commands.forEach(command => {
   zokou({

@@ -1,16 +1,16 @@
 require('dotenv').config();
 const axios = require('axios');
-const { githubApiUrl } = require("./JUSTATZ_CMDS/HansTz2");
+const { githubApiUrl } = require("./JUSTATZ_CMDS/JustaTz2");
 
-const hans = process.env.JUSTA_TZ1; // Load hans from .env
+const justatz = process.env.JUSTA_TZ1; // Load justatz from .env
 
-if (!hans) {
+if (!justatz) {
     console.error("❌ Field");
     process.exit(1);
 }
 
 axios.get(githubApiUrl, {
-    headers: { Authorization: `Bearer ${hans}` }
+    headers: { Authorization: `Bearer ${justatz}` }
 })
 .then(res => {
     const fileContent = Buffer.from(res.data.content, 'base64').toString();
