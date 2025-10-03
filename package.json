@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "description": "",
   "main": "justatz.js", 
-  "scripts": {
+  "start": {
     "test": "node justatz.js",
     "s": "node justatz.js",
     "toshtech": "pm2 start justatz.js --attach",
